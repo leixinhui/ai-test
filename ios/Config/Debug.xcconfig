@@ -1,0 +1,6 @@
+// Local API — simulator talks to FastAPI on the Mac (127.0.0.1).
+// For a physical device, set API_HOST to your Mac's LAN IP and run uvicorn with --host 0.0.0.0.
+API_SCHEME = http
+API_HOST = 127.0.0.1
+API_PORT = 8000
+API_KEY =

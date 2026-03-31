@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+server/app.db
+*.egg-info/
+dist/
+build/
+
+# iOS / Xcode
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.hmap
+*.ipa
+*.dSYM.zip
+
+# IDE
+.idea/
+.vscode/
